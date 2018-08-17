@@ -7,18 +7,18 @@
   "formatVersion": "1.0",
   "documents": [
     {
-      "title": "Geometry",
-      "overviewSubtitle": "Geometry with Swift Playgrounds",
-      "detailSubtitle": "Learn to code with visual problems!",
-      "description": "In this course students will learn the fundamentals of Swift using Geometry as their context for learning. The Playground resembles Logo, which is an educational visual simulation designed by Seymour Papert and the team at MIT.",
+      "title": "Starter Book",
+      "overviewSubtitle": "Blank Template",
+      "detailSubtitle": "Blank Template for creating your own Playgrounds",
+      "description": "Blank Template for creating your own Playgrounds",
       "difficultyLevel": "beginner",
-      "contentIdentifier": "io.github.swiftteacher.Geometry",
+      "contentIdentifier": "io.github.swiftteacher.Starter",
       "contentVersion": "2.0",
-      "url": "https://swiftteacher.github.io/Geometry/Geometry.playgroundbook.zip",
+      "url": "https://swiftteacher.github.io/Starter/Starter.playgroundbook.zip",
       "publishedDate": "2018-06-25T12:00:00+00:00",
       "lastUpdatedDate": "2018-06-26T12:00:00+00:00",
-      "bannerImageURL": "https://swiftteacher.github.io/Geometry/banner_2x.png",
-      "thumbnailURL": "https://swiftteacher.github.io/Geometry/geometry_2x.png",
+      "bannerImageURL": "https://swiftteacher.github.io/Starter/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Starter/starter_2x.png",
       "additionalInformation": [
         {
           "name": "Languages",
@@ -26,9 +26,9 @@
         }
       ],
       "previewImageURLs": [
-        "https://swiftteacher.github.io/Geometry/preview-1.png",
-        "https://swiftteacher.github.io/Geometry/preview-2.png",
-        "https://swiftteacher.github.io/Geometry/preview-3.png"
+        "https://swiftteacher.github.io/Starter/preview-1.png",
+        "https://swiftteacher.github.io/Starter/preview-2.png",
+        "https://swiftteacher.github.io/Starter/preview-3.png"
       ]
     }
   ]

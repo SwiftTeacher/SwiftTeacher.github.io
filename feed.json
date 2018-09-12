@@ -30,6 +30,31 @@
         "https://swiftteacher.github.io/Starter/preview-2.png",
         "https://swiftteacher.github.io/Starter/preview-3.png"
       ]
+    },
+    {
+      "title": "Mondrian Code",
+      "overviewSubtitle": "Carlos Garcia",
+      "detailSubtitle": "This playground explores the geometrical art of Piet Mondrian.",
+      "description": "This playground explores the geometrical art of Piet Mondrian.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.Mondrian",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Mondrian/Mondrian.playgroundbook.zip",
+      "publishedDate": "2018-09-25T12:00:00+00:00",
+      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Mondrian/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Mondrian/mondrian_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Mondrian/preview-1.png",
+        "https://swiftteacher.github.io/Mondrian/preview-2.png",
+        "https://swiftteacher.github.io/Mondrian/preview-3.png"
+      ]
     }
   ]
 }

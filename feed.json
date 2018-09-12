@@ -55,6 +55,31 @@
         "https://swiftteacher.github.io/Mondrian/preview-2.png",
         "https://swiftteacher.github.io/Mondrian/preview-3.png"
       ]
+    },
+    {
+      "title": "Shakespeare Insult Generator",
+      "overviewSubtitle": "Chris Barnabei",
+      "detailSubtitle": "This playground explores the work of William Shakespeare.",
+      "description": "This playground explores the work of William Shakespeare.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.Shakespeare",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Shakespeare/Shakespeare.playgroundbook.zip",
+      "publishedDate": "2018-09-25T12:00:00+00:00",
+      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Shakespeare/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Shakespeare/Shakespeare_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Shakespeare/preview-1.png",
+        "https://swiftteacher.github.io/Shakespeare/preview-2.png",
+        "https://swiftteacher.github.io/Shakespeare/preview-3.png"
+      ]
     }
   ]
 }

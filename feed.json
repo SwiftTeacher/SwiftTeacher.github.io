@@ -80,6 +80,81 @@
         "https://swiftteacher.github.io/Shakespeare/preview-2.png",
         "https://swiftteacher.github.io/Shakespeare/preview-3.png"
       ]
+    },
+    {
+      "title": "Color Switch",
+      "overviewSubtitle": "Daniel Budd",
+      "detailSubtitle": "This playground explores the creation of a geometry game.",
+      "description": "This playground explores the creation of a geometry game.",
+      "difficultyLevel": "intermediate",
+      "contentIdentifier": "io.github.swiftteacher.color",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Color/color.playgroundbook.zip",
+      "publishedDate": "2018-09-25T12:00:00+00:00",
+      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Color/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Color/ColorSwitch_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Color/preview-1.png",
+        "https://swiftteacher.github.io/Color/preview-2.png",
+        "https://swiftteacher.github.io/Color/preview-3.png"
+      ]
+    },
+    {
+      "title": "Mapping",
+      "overviewSubtitle": "Daniel Budd",
+      "detailSubtitle": "This playground explores the plotting of data on maps.",
+      "description": "This playground explores the plotting of data on maps.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.mapping",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Mapping/mapping.playgroundbook.zip",
+      "publishedDate": "2018-09-25T12:00:00+00:00",
+      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Mapping/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Mapping/Mapping_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Mapping/preview-1.png",
+        "https://swiftteacher.github.io/Mapping/preview-2.png",
+        "https://swiftteacher.github.io/Mapping/preview-3.png"
+      ]
+    },
+    {
+      "title": "Space Invaders",
+      "overviewSubtitle": "Daniel Budd",
+      "detailSubtitle": "This playground explores using SpriteKit to create a game.",
+      "description": "This playground explores using SpriteKit to create a game.",
+      "difficultyLevel": "intermediate",
+      "contentIdentifier": "io.github.swiftteacher.space",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Space/space.playgroundbook.zip",
+      "publishedDate": "2018-09-25T12:00:00+00:00",
+      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Space/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Space/Mapping_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Space/preview-1.png",
+        "https://swiftteacher.github.io/Space/preview-2.png",
+        "https://swiftteacher.github.io/Space/preview-3.png"
+      ]
     }
   ]
 }

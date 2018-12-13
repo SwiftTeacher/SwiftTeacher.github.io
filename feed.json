@@ -155,6 +155,31 @@
         "https://swiftteacher.github.io/Space/preview-2.png",
         "https://swiftteacher.github.io/Space/preview-3.png"
       ]
+    },
+    {
+      "title": "Earthquake Data",
+      "overviewSubtitle": "Daniel Budd",
+      "detailSubtitle": "This playground explores using JSON queries with MapKit to visualise live data.",
+      "description": "This playground explores using JSON queries with MapKit to visualise live data.",
+      "difficultyLevel": "advanced",
+      "contentIdentifier": "io.github.swiftteacher.earthquake",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/earthquake/earthquake.playgroundbook.zip",
+      "publishedDate": "2018-12-13T12:00:00+00:00",
+      "lastUpdatedDate": "2018-12-13T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/earthquake/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/earthquake/earthquake_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/earthquake/preview-1.png",
+        "https://swiftteacher.github.io/earthquake/preview-2.png",
+        "https://swiftteacher.github.io/earthquake/preview-3.png"
+      ]
     }
   ]
 }

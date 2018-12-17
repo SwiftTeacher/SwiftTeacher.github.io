@@ -180,6 +180,31 @@
         "https://swiftteacher.github.io/earthquake/preview-2.png",
         "https://swiftteacher.github.io/earthquake/preview-3.png"
       ]
+    },
+    {
+      "title": "Panorama",
+      "overviewSubtitle": "Daniel Budd",
+      "detailSubtitle": "This playground explores creating a viewer for panoramic images.",
+      "description": "This playground explores creating a viewer for panoramic images.",
+      "difficultyLevel": "intermediate",
+      "contentIdentifier": "io.github.swiftteacher.Panorama",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Panorama/Panorama.playgroundbook.zip",
+      "publishedDate": "2018-12-17T12:00:00+00:00",
+      "lastUpdatedDate": "2018-12-17T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Panorama/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Panorama/Panorama_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Panorama/preview-1.png",
+        "https://swiftteacher.github.io/Panorama/preview-2.png",
+        "https://swiftteacher.github.io/Panorama/preview-3.png"
+      ]
     }
   ]
 }

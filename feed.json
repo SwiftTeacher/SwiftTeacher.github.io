@@ -38,16 +38,16 @@
       "description": "This playground explores the geometrical art of Piet Mondrian.",
       "difficultyLevel": "beginner",
       "contentIdentifier": "io.github.swiftteacher.mondrian",
-      "contentVersion": "1.0",
+      "contentVersion": "2.0",
       "url": "https://swiftteacher.github.io/Mondrian/mondrian.playgroundbook.zip",
       "publishedDate": "2018-09-25T12:00:00+00:00",
-      "lastUpdatedDate": "2018-09-26T12:00:00+00:00",
+      "lastUpdatedDate": "2018-12-26T12:00:00+00:00",
       "bannerImageURL": "https://swiftteacher.github.io/Mondrian/banner_2x.png",
       "thumbnailURL": "https://swiftteacher.github.io/Mondrian/mondrian_2x.png",
       "additionalInformation": [
         {
           "name": "Languages",
-          "value": "English, Spanish"
+          "value": "English,Spanish"
         }
       ],
       "previewImageURLs": [

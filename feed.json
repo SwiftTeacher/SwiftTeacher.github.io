@@ -205,6 +205,31 @@
         "https://swiftteacher.github.io/Panorama/preview-2.png",
         "https://swiftteacher.github.io/Panorama/preview-3.png"
       ]
+    },
+    {
+      "title": "Volcano",
+      "overviewSubtitle": "Michael O'Kane",
+      "detailSubtitle": "This playground uses the Sensor Create template to explore Volcano eruptions in Primary Education.",
+      "description": "This playground uses the Sensor Create template to explore Volcano eruptions in Primary Education.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.volcano",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Volcano/Volcano.playgroundbook.zip",
+      "publishedDate": "2019-01-01T12:00:00+00:00",
+      "lastUpdatedDate": "2019-01-01T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Volcano/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Volcano/Volcano_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Volcano/preview-1.png",
+        "https://swiftteacher.github.io/Volcano/preview-2.png",
+        "https://swiftteacher.github.io/Volcano/preview-3.png"
+      ]
     }
   ]
 }

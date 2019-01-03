@@ -230,6 +230,106 @@
         "https://swiftteacher.github.io/Volcano/preview-2.png",
         "https://swiftteacher.github.io/Volcano/preview-3.png"
       ]
+    },
+    {
+      "title": "Answers with Images",
+      "overviewSubtitle": "Chris Barnabei",
+      "detailSubtitle": "Extension of Answers template to allow questions with Images.",
+      "description": "Extension of Answers template to allow questions with Images.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.answers",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Answers/Answers.playgroundbook.zip",
+      "publishedDate": "2019-01-03T12:00:00+00:00",
+      "lastUpdatedDate": "2019-01-03T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Answers/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Answers/Answers_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Answers/preview-1.png",
+        "https://swiftteacher.github.io/Answers/preview-2.png",
+        "https://swiftteacher.github.io/Answers/preview-3.png"
+      ]
+    },
+    {
+      "title": "Learning Time",
+      "overviewSubtitle": "Chris Barnabei",
+      "detailSubtitle": "This playground is created using the 'Answers with Images' template to teach students how to tell the time in Spanish.",
+      "description": "This playground is created using the 'Answers with Images' template to teach students how to tell the time in Spanish.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.time",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Time/Time.playgroundbook.zip",
+      "publishedDate": "2019-01-03T12:00:00+00:00",
+      "lastUpdatedDate": "2019-01-03T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Time/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Time/Time_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Time/preview-1.png",
+        "https://swiftteacher.github.io/Time/preview-2.png",
+        "https://swiftteacher.github.io/Time/preview-3.png"
+      ]
+    },
+    {
+      "title": "Witch Detector",
+      "overviewSubtitle": "Chris Barnabei",
+      "detailSubtitle": "This playground is created using the 'Answers with Images' template to create a Witch Detector test to accompany the play 'The Crucible' by Arthur Miller.",
+      "description": "This playground is created using the 'Answers with Images' template to create a Witch Detector test to accompany the play 'The Crucible' by Arthur Miller.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.witch",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Witch/Witch.playgroundbook.zip",
+      "publishedDate": "2019-01-03T12:00:00+00:00",
+      "lastUpdatedDate": "2019-01-03T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Witch/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Witch/Time_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Witch/preview-1.png",
+        "https://swiftteacher.github.io/Witch/preview-2.png",
+        "https://swiftteacher.github.io/Witch/preview-3.png"
+      ]
+    },
+    {
+      "title": "Random Generator",
+      "overviewSubtitle": "Carlos Garcia",
+      "detailSubtitle": "In this playground you'll see how to create a simple app to choose a letter, emoji or student name randomly. You'll also learn how to create simple shapes using CoreGraphics.",
+      "description": "In this playground you'll see how to create a simple app to choose a letter, emoji or student name randomly. You'll also learn how to create simple shapes using CoreGraphics.",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.random",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Random/Random.playgroundbook.zip",
+      "publishedDate": "2019-01-03T12:00:00+00:00",
+      "lastUpdatedDate": "2019-01-03T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Random/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Random/Time_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Random/preview-1.png",
+        "https://swiftteacher.github.io/Random/preview-2.png",
+        "https://swiftteacher.github.io/Random/preview-3.png"
+      ]
     }
   ]
 }

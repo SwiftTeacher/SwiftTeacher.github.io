@@ -330,31 +330,6 @@
         "https://swiftteacher.github.io/Random/preview-2.png",
         "https://swiftteacher.github.io/Random/preview-3.png"
       ]
-    },
-    {
-      "title": "AR Starter",
-      "overviewSubtitle": "Daniel Budd",
-      "detailSubtitle": "This is a very simple Augmented Reality playground to help understand the technology.",
-      "description": "This is a very simple Augmented Reality playground to help understand the technology.",
-      "difficultyLevel": "intermediate",
-      "contentIdentifier": "io.github.swiftteacher.AR",
-      "contentVersion": "2.0",
-      "url": "https://swiftteacher.github.io/AR/AR.playgroundbook.zip",
-      "publishedDate": "2019-01-03T12:00:00+00:00",
-      "lastUpdatedDate": "2019-01-03T12:00:00+00:00",
-      "bannerImageURL": "https://swiftteacher.github.io/AR/banner_2x.png",
-      "thumbnailURL": "https://swiftteacher.github.io/AR/Random_2x.png",
-      "additionalInformation": [
-        {
-          "name": "Languages",
-          "value": "English"
-        }
-      ],
-      "previewImageURLs": [
-        "https://swiftteacher.github.io/AR/preview-1.png",
-        "https://swiftteacher.github.io/AR/preview-2.png",
-        "https://swiftteacher.github.io/AR/preview-3.png"
-      ]
     }
   ]
 }

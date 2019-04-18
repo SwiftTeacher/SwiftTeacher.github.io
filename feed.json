@@ -355,6 +355,31 @@
         "https://swiftteacher.github.io/AR/preview-2.png",
         "https://swiftteacher.github.io/AR/preview-3.png"
       ]
+    },
+    {
+      "title": "Paradox of Polls",
+      "overviewSubtitle": "Giovanna Busconi",
+      "detailSubtitle": "This playground explores the mathematics of voting.",
+      "description": "Probability conditions are a part of everyday life. Often what may seem to be the most probable, does not turn out to be true. Starting from a known paradox, this playground studies the probability of extracting two white balls from two urns to show the best strategy does not depend on the composition of the ballot boxes.",
+      "difficultyLevel": "Beginners",
+      "contentIdentifier": "io.github.swiftteacher.Panorama",
+      "contentVersion": "1.0",
+      "url": "https://swiftteacher.github.io/Paradox/Paradox.playgroundbook.zip",
+      "publishedDate": "2019-04-17T12:00:00+00:00",
+      "lastUpdatedDate": "2019-04-17T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Paradox/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Paradox/Paradox_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English,Italian"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Paradox/preview-1.png",
+        "https://swiftteacher.github.io/Paradox/preview-2.png",
+        "https://swiftteacher.github.io/Paradox/preview-3.png"
+      ]
     }
   ]
 }

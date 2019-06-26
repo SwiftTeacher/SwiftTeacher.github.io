@@ -380,56 +380,6 @@
         "https://swiftteacher.github.io/Paradox/preview-2.png",
         "https://swiftteacher.github.io/Paradox/preview-3.png"
       ]
-    },
-    {
-      "title": "Geometry",
-      "overviewSubtitle": "Geometry with Swift Playgrounds",
-      "detailSubtitle": "Learn to code with visual problems!",
-      "description": "In this course students will learn the fundamentals of Swift using Geometry as their context for learning. The Playground resembles Logo, which is an educational visual simulation designed by Seymour Papert and the team at MIT.",
-      "difficultyLevel": "beginner",
-      "contentIdentifier": "io.github.dbbudd.Geometry",
-      "contentVersion": "3.0",
-      "url": "https://dbbudd.github.io/Geometry/Geometry.playgroundbook.zip",
-      "publishedDate": "2019-06-25T12:00:00+00:00",
-      "lastUpdatedDate": "2019-06-26T12:00:00+00:00",
-      "bannerImageURL": "https://dbbudd.github.io/Geometry/banner_2x.png",
-      "thumbnailURL": "https://dbbudd.github.io/Geometry/geometry_2x.png",
-      "additionalInformation": [
-        {
-          "name": "Languages",
-          "value": "English"
-        }
-      ],
-      "previewImageURLs": [
-        "https://dbbudd.github.io/Geometry/preview-1.png",
-        "https://dbbudd.github.io/Geometry/preview-2.png",
-        "https://dbbudd.github.io/Geometry/preview-3.png"
-      ]
-    },
-    {
-      "title": "Geometry Template",
-      "overviewSubtitle": "Students can create their own Geometry projects.",
-      "detailSubtitle": "Students can create their own Geometry projects.",
-      "description": "This template allows students to experiment and create their own Geometry projects.",
-      "difficultyLevel": "beginner",
-      "contentIdentifier": "io.github.dbbudd.GeometryTemplate",
-      "contentVersion": "3.0",
-      "url": "https://dbbudd.github.io/GeometryTemplate/GeometryTemplate.playgroundbook.zip",
-      "publishedDate": "2019-06-25T12:00:00+00:00",
-      "lastUpdatedDate": "2019-06-26T12:00:00+00:00",
-      "bannerImageURL": "https://dbbudd.github.io/GeometryTemplate/banner_2x.png",
-      "thumbnailURL": "https://dbbudd.github.io/GeometryTemplate/geometry_2x.png",
-      "additionalInformation": [
-        {
-          "name": "Languages",
-          "value": "English"
-        }
-      ],
-      "previewImageURLs": [
-        "https://dbbudd.github.io/GeometryTemplate/preview-1.png",
-        "https://dbbudd.github.io/GeometryTemplate/preview-2.png",
-        "https://dbbudd.github.io/GeometryTemplate/preview-3.png"
-      ]
     }
   ]
 }

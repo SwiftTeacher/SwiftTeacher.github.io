@@ -380,6 +380,31 @@
         "https://swiftteacher.github.io/Paradox/preview-2.png",
         "https://swiftteacher.github.io/Paradox/preview-3.png"
       ]
+    },
+    {
+      "title": "3D Shapes",
+      "overviewSubtitle": "Michael O'Kane",
+      "detailSubtitle": "This playground explores AR with CreateAR templates",
+      "description": "This playground explores AR with CreateAR templates",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.3DShapes",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/3DShapes/3DShapes.playgroundbook.zip",
+      "publishedDate": "2019-09-17T12:00:00+00:00",
+      "lastUpdatedDate": "2019-09-17T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/3DShapes/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/3DShapes/3DShapes_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/3DShapes/preview-1.png",
+        "https://swiftteacher.github.io/3DShapes/preview-2.png",
+        "https://swiftteacher.github.io/3DShapes/preview-3.png"
+      ]
     }
   ]
 }

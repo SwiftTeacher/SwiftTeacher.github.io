@@ -405,6 +405,31 @@
         "https://swiftteacher.github.io/3DShapes/preview-2.png",
         "https://swiftteacher.github.io/3DShapes/preview-3.png"
       ]
+    },
+    {
+      "title": "Adjective Hunt",
+      "overviewSubtitle": "Michael O'Kane",
+      "detailSubtitle": "This playground activity uses AR to link adjectives with images",
+      "description": "This playground activity uses AR to link adjectives with images",
+      "difficultyLevel": "beginner",
+      "contentIdentifier": "io.github.swiftteacher.adjective",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Adjective/adjective.playgroundbook.zip",
+      "publishedDate": "2019-10-03T12:00:00+00:00",
+      "lastUpdatedDate": "2019-10-03T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Adjective/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Adjective/adjective_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Adjective/preview-1.png",
+        "https://swiftteacher.github.io/Adjective/preview-2.png",
+        "https://swiftteacher.github.io/Adjective/preview-3.png"
+      ]
     }
   ]
 }

@@ -430,6 +430,31 @@
         "https://swiftteacher.github.io/Adjective/preview-2.png",
         "https://swiftteacher.github.io/Adjective/preview-3.png"
       ]
+    },
+    {
+      "title": "SwiftUI Calculator",
+      "overviewSubtitle": "Dave Brown",
+      "detailSubtitle": "This playground demonstrates using SwiftUI in Swift Playgrounds.",
+      "description": "This playground demonstrates using SwiftUI in Swift Playgrounds.",
+      "difficultyLevel": "intermediate",
+      "contentIdentifier": "io.github.swiftteacher.Calculator",
+      "contentVersion": "2.0",
+      "url": "https://swiftteacher.github.io/Calculator/Calculator.playgroundbook.zip",
+      "publishedDate": "2020-02-22T12:00:00+00:00",
+      "lastUpdatedDate": "2020-02-22T12:00:00+00:00",
+      "bannerImageURL": "https://swiftteacher.github.io/Calculator/banner_2x.png",
+      "thumbnailURL": "https://swiftteacher.github.io/Calculator/Calculator_2x.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "English"
+        }
+      ],
+      "previewImageURLs": [
+        "https://swiftteacher.github.io/Calculator/preview-1.png",
+        "https://swiftteacher.github.io/Calculator/preview-2.png",
+        "https://swiftteacher.github.io/Calculator/preview-3.png"
+      ]
     }
   ]
 }
